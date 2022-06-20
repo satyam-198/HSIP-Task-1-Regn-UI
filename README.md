@@ -13,4 +13,5 @@
 5. Open the register.php file.
 ```
 
-
+## Screenshots
+Screenshots folder contains all the screenshots of the Codes, Database, and the Registration UI.
